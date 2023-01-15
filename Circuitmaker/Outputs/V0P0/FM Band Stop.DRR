@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: FM Band Stop.CMPcbDoc   1/14/2023  3:58:10 PM
+NCDrill File Report For: FM Band Stop.CMPcbDoc   1/14/2023  10:52:57 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,10 @@ ASCII RoundHoles File : FM Band Stop.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             4         PTH        0.69inch (17.53mm)
-T2      18mil (0.46mm)                                            Round             4         PTH        1.97inch (50.01mm)
+T1      10mil (0.254mm)                                           Round             4         PTH        1.13inch (28.65mm)
+T2      18mil (0.46mm)                                            Round             4         PTH        1.88inch (47.67mm)
+T3      83mil (2.101mm)                                           Round             4         NPTH       2.76inch (70.10mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              8
+Totals                                                                              12
 
 Total Processing Time (hh:mm:ss) : 00:00:00
